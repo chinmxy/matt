@@ -1,4 +1,4 @@
-matt
+Matt's portfolio
 ====
 
-my personal website
+Welcome to my personal portfolio, I'm Matt. 
